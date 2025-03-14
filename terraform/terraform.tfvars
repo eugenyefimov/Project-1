@@ -1,0 +1,8 @@
+primary_region   = "us-east-1"
+secondary_region = "us-west-2"
+environment      = "prod"
+instance_type    = "t3.medium"
+app_name         = "multi-region-app"
+domain_name      = "example.com"
+github_org       = "your-github-org"
+github_repo      = "Project-1"
