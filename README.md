@@ -1,9 +1,9 @@
 # Project-1
 Multi-Region Infrastructure Deployment
 
-Thought for 5 seconds### Multi-Region Infrastructure Deployment with Vercel and AWS
+### Multi-Region Infrastructure Deployment with Vercel and AWS
 
-I'll guide you through designing and implementing a highly available infrastructure across multiple AWS regions using Infrastructure as Code (IaC) principles.
+This project is dedicated to designing and implementing a highly available infrastructure across multiple AWS regions using Infrastructure as Code (IaC) principles.
 
 ## Architecture Overview
 
